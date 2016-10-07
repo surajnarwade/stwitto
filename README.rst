@@ -12,7 +12,7 @@ How to install :
 
  $ python setup.py install
 
-Use case:
+How to use:
 ---------
 
 ::
