@@ -1,6 +1,24 @@
+============================
 Stwitto - Twitter CLI client
+============================
 
 
-Use case:
+How to install :
+----------------
 
-stwitto --tweet 'hello world'
+::
+
+ $ git clone https://github.com/surajnarwade/stwitto.git
+
+ $ python setup.py install
+
+How to use:
+---------
+
+::
+
+ $ stwitto --tweet <tweet>
+
+ $ stwitto --tweet <tweet> --image <image path>
+
+ $ stwitto --help
