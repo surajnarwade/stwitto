@@ -2,6 +2,8 @@
 Stwitto - Twitter CLI client
 ============================
 
+How to get Twitter authentication token:
+----------------------------------------
 
 How to install :
 ----------------
